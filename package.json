@@ -90,7 +90,7 @@
     "antd": "3.8.4",
     "axios": "0.18.0",
     "bluebird": "3.5.1",
-    "moment-timezone": "0.5.21",
+    "moment-timezone": "0.5.35",
     "prop-types": "15.6.2",
     "react": "16.4.2",
     "react-dom": "16.4.2",
